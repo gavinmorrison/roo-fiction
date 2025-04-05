@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# IDE config files
+.vscode/
+.idea/
+*.swp
+*.swo
