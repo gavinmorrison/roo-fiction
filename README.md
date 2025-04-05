@@ -1,6 +1,15 @@
-# Roo Fiction Modes
+<div align="center">
 
-This repository contains custom modes for Roo designed to assist with narrative fiction writing.
+# 🖋️ Roo Fiction Modes
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Custom Modes](https://img.shields.io/badge/Roo-Custom%20Modes-blue)](https://github.com/RooVetGit/Roo-Code)
+
+</div>
+
+This repository contains custom modes for [Roo Code](https://github.com/RooVetGit/Roo-Code) designed to assist with narrative fiction writing.
+
+> **Disclaimer:** This project is not affiliated with, endorsed by, or sponsored by Roo Code or its creators. No warranty is provided for these custom modes.
 
 ## Modes Included
 
