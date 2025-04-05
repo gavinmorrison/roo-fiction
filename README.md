@@ -147,18 +147,18 @@ Here's a simplified view of how these modes might interact in a typical workflow
 
 ```mermaid
 flowchart TD
-    A["Start Project"] --> B["Narrative Planner"]
-    B --> C["Define Scope & Structure"]
-    C --> D["Develop Outline, Characters, World"]
-    D --> E["Ready to Write?"]
-    E -- "Yes" --> F["Narrative Writer"]
-    F --> G["Draft Prose"]
-    G --> H["Review & Refine"]
-    H -- "Needs Planning Changes" --> B
-    H -- "Continue Writing" --> G
-    H -- "Ready for Revision" --> I["Revise Prose"]
-    I --> J["Final Output"]
-    E -- "No" --> D
+    A("Start Project") --> B("Narrative Planner")
+    B --> C("Define Scope & Structure")
+    C --> D("Develop Outline & Characters")
+    D --> E("Ready to Write?")
+    E -->|Yes| F("Narrative Writer")
+    F --> G("Draft Prose")
+    G --> H("Review & Refine")
+    H -->|Needs Planning Changes| B
+    H -->|Continue Writing| G
+    H -->|Ready for Revision| I("Revise Prose")
+    I --> J("Final Output")
+    E -->|No| D
     
     classDef planner fill:#f9f,stroke:#333,stroke-width:2px
     classDef writer fill:#ccf,stroke:#333,stroke-width:2px
