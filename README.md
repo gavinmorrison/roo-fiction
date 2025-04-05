@@ -70,6 +70,10 @@ This method adds the modes to your global Roo configuration, making them accessi
 
 ## Mode Documentation
 
+For a more human-readable version of the mode configurations (especially the detailed instructions), see the [ROO_MODES.md](ROO_MODES.md) file.
+
+**WARNING:** The `ROO_MODES.md` file is for documentation purposes only. The actual configuration is loaded from the `.roomodes` file. If `.roomodes` is modified, `ROO_MODES.md` must be manually updated to stay in sync.
+
 ### 1. Narrative Planner (`narrative-planner`)
 
 **Purpose:**
