@@ -4,6 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Custom Modes](https://img.shields.io/badge/Roo-Custom%20Modes-blue)](https://github.com/RooVetGit/Roo-Code)
+[![JSON](https://img.shields.io/badge/Config-JSON-brightgreen)](https://www.json.org/)
 
 </div>
 
